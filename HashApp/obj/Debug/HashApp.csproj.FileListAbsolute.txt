@@ -1,0 +1,16 @@
+C:\Users\temch\Desktop\Шарага\4 курс\Обеспечение качества\HashApp\HashApp\bin\Debug\HashApp.exe.config
+C:\Users\temch\Desktop\Шарага\4 курс\Обеспечение качества\HashApp\HashApp\bin\Debug\HashApp.exe
+C:\Users\temch\Desktop\Шарага\4 курс\Обеспечение качества\HashApp\HashApp\bin\Debug\HashApp.pdb
+C:\Users\temch\Desktop\Шарага\4 курс\Обеспечение качества\HashApp\HashApp\bin\Debug\EntityFramework.dll
+C:\Users\temch\Desktop\Шарага\4 курс\Обеспечение качества\HashApp\HashApp\bin\Debug\EntityFramework.SqlServer.dll
+C:\Users\temch\Desktop\Шарага\4 курс\Обеспечение качества\HashApp\HashApp\bin\Debug\EntityFramework.xml
+C:\Users\temch\Desktop\Шарага\4 курс\Обеспечение качества\HashApp\HashApp\bin\Debug\EntityFramework.SqlServer.xml
+C:\Users\temch\Desktop\Шарага\4 курс\Обеспечение качества\HashApp\HashApp\obj\Debug\HashApp.csproj.AssemblyReference.cache
+C:\Users\temch\Desktop\Шарага\4 курс\Обеспечение качества\HashApp\HashApp\obj\Debug\HashApp.AuthorizationForm.resources
+C:\Users\temch\Desktop\Шарага\4 курс\Обеспечение качества\HashApp\HashApp\obj\Debug\HashApp.Properties.Resources.resources
+C:\Users\temch\Desktop\Шарага\4 курс\Обеспечение качества\HashApp\HashApp\obj\Debug\HashApp.RegistrationForm.resources
+C:\Users\temch\Desktop\Шарага\4 курс\Обеспечение качества\HashApp\HashApp\obj\Debug\HashApp.csproj.GenerateResource.cache
+C:\Users\temch\Desktop\Шарага\4 курс\Обеспечение качества\HashApp\HashApp\obj\Debug\HashApp.csproj.CoreCompileInputs.cache
+C:\Users\temch\Desktop\Шарага\4 курс\Обеспечение качества\HashApp\HashApp\obj\Debug\HashApp.csproj.CopyComplete
+C:\Users\temch\Desktop\Шарага\4 курс\Обеспечение качества\HashApp\HashApp\obj\Debug\HashApp.exe
+C:\Users\temch\Desktop\Шарага\4 курс\Обеспечение качества\HashApp\HashApp\obj\Debug\HashApp.pdb
